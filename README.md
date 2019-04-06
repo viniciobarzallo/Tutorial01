@@ -1,14 +1,14 @@
 # Curbside-Thai
-Creating a website for a food vendor
-Get your book turn to page 14. 
+Creación de un sitio web para un vendedor de alimentos
+Haz que tu libro pase a la página 14. 
 
 <h1>Objective</h1>
 
-<ul>
-  <li> Create the structure of an HTML document</li>
-  <li>Insert HTML elements and attributes </li>
-  <li> Mark content using lists create a navigation list</li>
-  <li> link to files within a website with hypertext links</li>
+<ul>  
+  <li> Crear la estructura de un documento HTML </li>
+  <li> Insertar elementos y atributos HTML </li>
+  <li> Marcar contenido usando listas crea una lista de navegación </li>
+  <li> enlace a archivos dentro de un sitio web con enlaces de hipertexto </li>
   </ul>
 
 
