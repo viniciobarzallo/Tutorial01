@@ -1,5 +1,5 @@
 # Curbside-Thai
-Creación de un sitio web para un vendedor de alimentos
+Creación de un sitio web para un vendedor de alimentos.
 Haz que tu libro pase a la página 14. 
 
 <h1>Objectivo</h1>
