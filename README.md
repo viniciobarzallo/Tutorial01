@@ -2,7 +2,7 @@
 Creación de un sitio web para un vendedor de alimentos
 Haz que tu libro pase a la página 14. 
 
-<h1>Objective</h1>
+<h1>Objectivo</h1>
 
 <ul>  
   <li> Crear la estructura de un documento HTML </li>
